@@ -1,1 +1,5 @@
-today
+Today we learnt :
+
+    1. Install Elixir
+    2. Install Erlang
+    3. Install POSTGRESQL

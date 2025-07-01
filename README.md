@@ -8,3 +8,5 @@ This is my fist time joining software bootcamp and I am very excited about it! �
 Lets enjoy the bootcamp and have a great time 🌱
 
 Fin 🐋
+
+![hippo](https://media1.tenor.com/m/QWZAInP_zn4AAAAC/the-breakfast-club-brian-johnson.gif)

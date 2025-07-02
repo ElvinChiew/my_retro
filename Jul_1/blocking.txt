@@ -1,1 +1,6 @@
 blocking
+
+1. Some scripts are unauthorized to be run in the command line interface.
+ So we have to change the permission by running the command in shellscript
+
+2. After installing Elixir, we have to manually set the path. 

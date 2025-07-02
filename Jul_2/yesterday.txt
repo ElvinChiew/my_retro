@@ -1,0 +1,13 @@
+Yesterday I learnt:
+
+1. Various tools installations:
+  1.1 Phoenix Framework
+  1.2 Erlang Installation
+  1.3 POSTGRES installation
+  1.4 NodeJS Installation - Compatible version 20.x
+
+2. Create my first app, well kind of. Successfully run command that initialized the server
+and allow the user to access the web page at localhost::4000
+
+3. Downladed compatible version of Erlang extension for cursor. Different colour contrast between syntax and variable make it
+easier to read and detect any error

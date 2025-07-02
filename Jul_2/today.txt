@@ -3,4 +3,5 @@ Today I learnt:
   1. Create an apps and learnt the concept of mix phx.gen.live
   2. Learnt the meaning behind the syntax of the command
   3. Getting famuliarized with the architecture of fraework
-  4. Learnt to create the github 
+  4. Learnt to create the github repository without README.md and the using 
+  git bash to push to folder stored locally into the remoe repoitory

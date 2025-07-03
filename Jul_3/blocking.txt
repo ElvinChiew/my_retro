@@ -1,0 +1,1 @@
+1. Unfamiliarity with may terms such as the endpoint.ex, telegraphy.ex

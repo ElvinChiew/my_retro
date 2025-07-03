@@ -1,0 +1,2 @@
+1. Learn about phx.gen.live
+2. Learnt to push local files into remote repository using git bash

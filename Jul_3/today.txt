@@ -1,0 +1,8 @@
+1. Exploring into the phx.gen.live command deeper
+2. Preparing the presentation slides with our group members
+3. Discussing amongs ourself on our findings
+4. Doing presentation on findings based on the commands
+
+extra**
+I tried the phx.gen.html -> After clicking links, visible refresh happen
+-> Maybe because it is a static pages, so need to refresh the whole page

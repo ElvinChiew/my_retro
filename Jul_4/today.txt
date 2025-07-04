@@ -1,2 +1,46 @@
 1. Learn about Figma, having hands on experience.
 2. Learn about low-fidelity (Relume) design and high-fidelity
+
+**** Focus on Delivering MVP ****
+My core MVP goal :
+    1. Itinerary Map of Local attraction
+    2. Itinerary builder
+    3. Ai-Power Itinerary suggestion
+
+### MVP Breakdown ###
+1. Interactive Map of Local Attraction
+
+Feature:
+    - Display map using leaflet or Google api
+    - Show pin/markers for each attraction
+    - OnClick show a card with:
+        * Name
+        * Image 
+        * Short Description
+        * "Add to Itinerary" button
+
+    Data Source:
+    - Static JSON curated attractions for a local area
+    - Later: Pull from API like TripAdvisor, Foursquare, Google Places
+
+2. Itinerary builder
+
+Features:
+    - A sidebar or seperate page showing selected attraction
+    - Allow reordering (drag & drop)
+    - Simple time slot (Morning, Afternoon, Evening)
+    - Option to remove attraction
+
+3. Basic AI Itinerary Suggestions
+
+MVP version:
+    1. User Select preference via form:
+        - Interest (food, meuseum, outdoor)
+        - Trip duration
+        - Travel pace (relax, medium, packed)
+
+    2. AI suggest day-wise itinerary 
+
+Later Upgrade:
+    - Natural language input
+    - More real time personalisation based on weather, time, events

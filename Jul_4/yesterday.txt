@@ -1,0 +1,5 @@
+Yesterday we:
+
+1. Discuss among ourself regarding the presentation
+2. Presented our findings
+3. Exploring the phx.gen.live command a little bit deeper

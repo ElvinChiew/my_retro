@@ -1,0 +1,5 @@
+Today:
+    1. CRUD operation manually using the cli
+    2. Learn about  input validation more eg, email, password length
+    3. learn flow of CUD from front end perspective
+    

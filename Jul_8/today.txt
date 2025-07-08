@@ -1,0 +1,2 @@
+1. Learnt about how CRUD process happening from the perspective of front end 
+2. A little dive on what does on what functions do during process create/ update/delete

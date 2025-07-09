@@ -1,3 +1,4 @@
-1. Learnt pattern matching in elixir and phoenix
-2. Learnt about input type= select
-3. Learn about pipe and string function
+1. Learnt pattern matching in elixir and phoenix - cara panjang sama pendek
+2. Learnt about input type= select <.select - need to be define in component
+3. Learn about pipe function ands 
+4. Learn about list, tupple, and basic type

@@ -1,0 +1,11 @@
+1. Learnt System Analysis and Design
+    Planning
+    Analysis
+    Design
+    Implement
+
+2. Siapkan Validate IC - I fully use chatgpt - reverse enginnering needed
+3. Done more research about the project topic
+    - Database schema
+    - Features suggestions
+

@@ -1,0 +1,4 @@
+1. Learnt about basic data type
+2. Learnt tupple
+3. Buat mini project -ok!
+4. Buat IC - kinda working, but need to put in UI

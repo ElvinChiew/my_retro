@@ -9,3 +9,6 @@
     - Database schema
     - Features suggestions
 
+4. Planning what to include, what to capture
+    5w 1h berguna dalam brainstorming                                                              
+

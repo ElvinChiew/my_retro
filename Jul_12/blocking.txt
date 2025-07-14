@@ -1,3 +1,5 @@
 1. Need to explore tailwindcss utility classes
 
 Flex - Flex-col - Flex-row
+
+2. Masih lemah kalau mau kasi center horizontal item 

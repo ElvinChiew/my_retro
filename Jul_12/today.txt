@@ -4,3 +4,5 @@
     2.2 Internal css
     2.3 External css
 3. Belajar tailwindcss
+4. UIverse introduction - banyak componen berguna - mempercepatkan development
+5. Responsive UI

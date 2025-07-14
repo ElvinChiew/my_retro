@@ -1,0 +1,6 @@
+1. Belajar HTML
+2. Belajar css
+    2.1 Inline css
+    2.2 Internal css
+    2.3 External css
+3. Belajar tailwindcss

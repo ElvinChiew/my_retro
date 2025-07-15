@@ -1,0 +1,2 @@
+1. Learn database relationship
+2. Create relationship in code

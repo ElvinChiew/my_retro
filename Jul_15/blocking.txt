@@ -1,0 +1,3 @@
+1. Code migration error due to duplicate migration
+2. Delete database, create migration, run migration
+3. 

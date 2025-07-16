@@ -1,0 +1,5 @@
+Yesterday Learning outcome:
+
+1. Learnt Database relationship
+2. Learnt to implement tab;e relationship in code
+3. 

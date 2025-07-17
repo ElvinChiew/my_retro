@@ -1,0 +1,2 @@
+1. Belajar pasal database relationship
+2. Coding preload

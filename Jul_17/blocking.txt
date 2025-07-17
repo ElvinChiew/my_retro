@@ -1,0 +1,1 @@
+1. MyLIb mau implement enum.reduce -> map key:value  

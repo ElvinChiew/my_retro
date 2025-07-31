@@ -1,0 +1,4 @@
+1. Worked on creating filter through drop down
+2. Improve profile menu drop down
+    2.1 Change from hover to open menu to click to open menu
+3. Continue with Figma Design
